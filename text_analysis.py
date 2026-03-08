@@ -1,4 +1,3 @@
-# text_analysis.py
 
 import os
 
