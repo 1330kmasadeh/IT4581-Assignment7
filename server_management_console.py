@@ -1,4 +1,4 @@
-# server_management_console.py
+
 
 def startServer():
     print("Server started")
@@ -13,7 +13,7 @@ def checkStatus():
     print("Server status: Running")
 
 
-# jump table
+
 commandTable = {
     "1": startServer,
     "2": stopServer,
